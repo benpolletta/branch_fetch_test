@@ -1,5 +1,5 @@
 function test(n)
 
-X = rand(n);
+X = eye(n);
 
 imagesc(X)
